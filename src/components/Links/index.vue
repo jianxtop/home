@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "http://blog.frp.jianx.top/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "http://pan.jianx.top/",
   },
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "http://music.jianx.top/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "http://nav.jianx.top/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "http://web.jianx.top/",
   },
   {
     icon: Fire,
     name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    link: "http://hot.jianx.top/",
   },
 ];
 
