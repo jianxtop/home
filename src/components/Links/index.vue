@@ -51,27 +51,27 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "http://pan.jianx.top/",
+    link: "http://alist.frp.jianx.top/",
   },
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "http://music.jianx.top/",
+    link: "http://music.frp.jianx.top/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "http://nav.jianx.top/",
+    link: "http://nav.frp.jianx.top/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "http://web.jianx.top/",
+    link: "http://web.frp.jianx.top/",
   },
   {
     icon: Fire,
     name: "今日热榜",
-    link: "http://hot.jianx.top/",
+    link: "http://hot.frp.jianx.top/",
   },
 ];
 
